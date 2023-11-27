@@ -1,14 +1,12 @@
 #!/usr/bin/env bash
-#Display "Best School" 10 times and "hi" on 9th iteration
-
-m=1
-while [ $m -lt 10 ]
+#Creating a script that uses an if statement
+x=1
+while [ $x -le 10 ]
 do
-	echo "Best School"
-	(( m++ ))
-	if [ $m -eq 9 ]
-	then
-		echo "Best School"
-		echo "Hi"
-	fi
+    echo "Best School"
+    if [ $x -eq 9 ]
+    then
+	echo "Hi"
+    fi
+    ((x++))
 done
