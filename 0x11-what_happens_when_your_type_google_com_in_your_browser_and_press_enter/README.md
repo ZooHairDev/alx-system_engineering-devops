@@ -32,7 +32,7 @@ Requirements, your post must cover:
 - Application server
 - Database
 
-Click [here](http://---) to read my article.
+Click [here](https://medium.com/@zouhair.ob/from-google-com-to-your-screen-the-technical-path-550bb8bec505) to read my article.
 
 ### Task 1
 Add a schema to your blog post illustrating the flow of the request created when you type https://www.google.com in your browser and press Enter.\
@@ -46,4 +46,4 @@ The diagram should show:
 - that the application server generates the web page
 - that the application server request data from the database
 
-I hosted the diagram image [here](https://imgbox/...)
+I hosted the diagram image [here](https://imgbox.com/19dkbksY)
